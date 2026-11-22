@@ -1,0 +1,6 @@
+{
+  "name": "InkStream",
+  "description": "Real-time multiplayer drawing and guessing game with TikTok LIVE chat integration, streamer mode, custom private rooms, scoreboard, lobby analytics, and artwork downloads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
